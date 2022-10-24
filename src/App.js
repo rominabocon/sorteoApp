@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import PromoForm from './components/PromoForm';
 import ThankYouPage from './components/ThankYouPage'
